@@ -1,1 +1,18 @@
+Bug report on cinemacity.sk
 
+Model: Xiaomi Redmi Note 10S Android 13
+Browser: Google Chrome 121.0.6167.143
+URL: cinemacity.sk/#/
+
+Title: HTML text shows when click on "Vybrať film"
+
+Description: When I click on "Vybrať film" HTML text appears over movie choices
+
+Steps to reproduce:
+1. Go to cinemacity.sk/#/
+2. Click on "Podľa filmu"
+3. Click on "Vybrať film"
+
+Actual result: HTML text is displayed over movie choices, hence the movie choices are not readable
+
+Expected result: Movie choices are visible and I am able to choose one
