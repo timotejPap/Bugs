@@ -4,15 +4,15 @@ Model: Xiaomi Redmi Note 10S Android 13
 Browser: Google Chrome 121.0.6167.143
 URL: cinemacity.sk/#/
 
-Title: Visual bug when click on "Vybrať kino"
+Title: HTML text shows when click on "Vybrať kino"
 
-Description: 
+Description: When I click on "Vybrať kino" HTML text appears over cinema choices
 
 Steps to reproduce:
 1. Go to cinemacity.sk/#/
 2. Click on "Vybrať kino"
 
-Actual result:
+Actual result: HTML text is displayed over cinema choices, hence the cinema choices are not readable
 
-Expected result:
+Expected result: Cinema choices are visible and I am able to choose one
 
