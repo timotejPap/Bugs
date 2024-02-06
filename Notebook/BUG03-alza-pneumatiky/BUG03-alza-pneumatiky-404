@@ -1,0 +1,23 @@
+Bug report on alza.sk
+
+Win 10 Home 
+Browser: Google Chrome 121.0.6167.140
+URL: alza.sk
+
+Title: 404 response after choosing 205/55 R16 tyres in Letné pneumatiky
+
+Description: I am not able to choose tyres from 205/55 R16 list.
+             When I click on it, 404 server response appears.
+
+Steps to reproduce:
+1. Go to alza.sk
+2. Type "pneumatiky" into search folder
+3. Click "Hľadať"
+4. Scroll down and click on "Letné"
+5. Click on R16
+6. Click on 205/55 R16
+
+Actual result: 404 server response
+
+Expected result: I should be able to see and choose 205/55 R16 tyres
+
