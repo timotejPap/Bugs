@@ -1,0 +1,19 @@
+Bug report on smartyacademy.sk
+
+Model: Xiaomi Redmi Note 10S Android 13
+Browser: Google Chrome 121.0.6167.143
+URL: https://smartyacademy.sk/
+
+Title: "Uložiť a prijať" button doesn´t react in cookie preferences
+
+Description: After I choose cookies preferences click on "Uložiť a prijať" button, no reactions
+
+Steps to reproduce:
+1. Go to https://smartyacademy.sk/
+2. Click on "Nastavenia súborov cookie"
+3. Allow or disallow cookie preferences
+3. Click on "Uložiť a prijať"
+
+Actual result: Cookie window is still open
+
+Expected result: "Uložiť a prijať" button make some action and cookie windows close
