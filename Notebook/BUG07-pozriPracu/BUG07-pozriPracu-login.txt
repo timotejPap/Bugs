@@ -1,0 +1,38 @@
+Bug report on datasoft.sk
+
+Win 10 Home 
+Browser: Google Chrome 121.0.6167.185
+URL: https://www.pozripracu.sk/
+Date: 31.5.2024
+
+	Bug1
+
+Title: Not able to sign in with Google button
+
+Description: I can´t login to website using Google login button
+
+Steps to reproduce:
+1. Go to https://www.pozripracu.sk/
+2. Click on "Prihlásenie"
+3. Click on "Sign in with Google"
+
+Actual result: Error message appears "Prístup je blokovaný: 
+			   požiadavka tejto aplikácie je neplatná"
+
+Expected result: Succesfull login to website
+
+
+	Bug2
+
+Title: Not able to sign in with Facebook button
+
+Description: I can´t login to website using Facebook login button
+
+Steps to reproduce:
+1. Go to https://www.pozripracu.sk/
+2. Click on "Prihlásenie"
+3. Click on "Prihlásiť sa cez Facebook"
+
+Actual result: Nothing happens
+
+Expected result: Succesfull login to website

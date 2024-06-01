@@ -3,6 +3,7 @@ Bug report on datasoft.sk
 Win 10 Home 
 Browser: Google Chrome 121.0.6167.185
 URL: https://www.datasoft.sk/uvod.html
+Date: 21.2.2024
 
 Title: Wrong links on social media. Links redirecting to homepage.
 

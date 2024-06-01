@@ -1,0 +1,23 @@
+Bug report on datasoft.sk
+
+Win 10 Home 
+Browser: Google Chrome 121.0.6167.185
+URL: https://www.startupjobs.cz/
+Date: 2.4.2024
+
+Title: Not able to customize skills in profile.
+
+Description: When I go to profile to customize skills, I can´t do that. When I click
+			 on arrows, nothing happens.
+
+Steps to reproduce:
+1. Go to https://www.startupjobs.cz/
+2. Click on profile icon
+3. Click on "Co umím"
+4. Click on "Upravit údaje"
+5. Click on "Hlavní dovednosti"
+6. Click on "Další dovednosti"
+
+Actual result: Nothing happens
+
+Expected result: List of skills should be seen

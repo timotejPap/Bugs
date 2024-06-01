@@ -1,0 +1,18 @@
+Bug report on datasoft.sk
+
+Win 10 Home 
+Browser: Google Chrome 125.0.6422.113
+URL: https://zlatybazant.sk/sutaze
+
+Title: Wrong links on social media. Links redirecting to homepage.
+
+Description:             
+
+Steps to reproduce:
+1. Go to https://zlatybazant.sk/sutaze
+2. 
+3. 
+
+Actual result: 
+
+Expected result: 

@@ -4,10 +4,11 @@ Bug report on anasoft.sk
 Win 10 Home 
 Browser: Google Chrome 121.0.6167.185
 URL: https://www.anasoftaci.sk/kariera
+Date: 21.2.2024
 
 Title: Can´t fill text area in contact formular
 
-Description: It is impossible to fill "Add your name" text area. When typing, nothing hapens.
+Description: It is impossible to fill "Add your name" text area. When typing, nothing happens.
 
 Steps to reproduce:
 1. Go to https://www.anasoftaci.sk/kariera
